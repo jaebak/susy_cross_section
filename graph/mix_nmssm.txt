@@ -1,0 +1,11 @@
+tag: pp13_mix_nmssm
+label: $\tilde g\tilde q, \tilde q\tilde q, \tilde g\tilde g;  m_{\tilde q (t,b)} \sim  m_{\tilde g} = 1.01 \times m_{\tilde q (u,d,c,s)}$
+unitLength: -1
+800: 6.472
+1200: 0.4951
+1600: 0.06039
+2000: 0.00911
+2200: 0.00368
+2400: 0.00151
+2600: 0.00062
+2800: 0.00028

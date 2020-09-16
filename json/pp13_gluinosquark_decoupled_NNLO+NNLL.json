@@ -1,0 +1,22 @@
+{
+  "initial state": "pp",
+  "Ecom [GeV]": "13000",
+  "process_id": "pp13_hinosplit_C1C1",
+  "process_latex": "$\\tilde\\chi_1^+\\tilde\\chi_1^-$ (higgsino)",
+  "PDF set": "CTEQ6.6 and MSTW2008nlo90cl",
+  "order": "NLO+NLL",
+  "tool": "Resummino",
+  "comment": "The following cross sections are for pure higgsino-like pair production. They differ from the fully-degenerate case because here not all of the higgsinos are assumed to have the same mass, but there is a mass splitting between the two lightest neutralinos of dM = m(N2) - m(N1), and the mass of the lighter chargino is half-way in between the two neutralinos. These NLO+NLL cross-sections were computed using Resummino and an envelope of the CTEQ6.6 and MSTW2008nlo90cl PDFs. In addition, a dedicated calculation of the branching ratios (BR) of the into two leptons and the into a lepton and neutrino (including the tau lepton(s) where possible) was done with SUSYHit. In this calculation the decays of N2 into C1+X or N1+photon are not allowed. The values are listed in the TWiki.",
+  "reference": "?",
+  "source": "https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSections13TeVhinosplit",
+  "contact": "JoanaMachadoMiguens",
+  "parameters": [["go"], ["sq"]],
+  "data": {
+    "81.5": {
+      "80": {
+        "xsec_pb": 6.459886,
+        "unc_pb": 0.026511
+      }
+    }
+  }
+}
